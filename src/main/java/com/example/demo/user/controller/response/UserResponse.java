@@ -1,6 +1,6 @@
 package com.example.demo.user.controller.response;
 
-import com.example.demo.user.model.UserStatus;
+import com.example.demo.user.domain.UserStatus;
 import lombok.Getter;
 import lombok.Setter;
 

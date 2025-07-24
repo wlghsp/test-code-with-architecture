@@ -1,8 +1,8 @@
 package com.example.demo.user.controller;
 
-import com.example.demo.user.model.MyProfileResponse;
+import com.example.demo.user.domain.MyProfileResponse;
 import com.example.demo.user.controller.response.UserResponse;
-import com.example.demo.user.model.UserUpdate;
+import com.example.demo.user.domain.UserUpdate;
 import com.example.demo.user.infrastructure.UserEntity;
 import com.example.demo.user.service.UserService;
 import io.swagger.v3.oas.annotations.Parameter;

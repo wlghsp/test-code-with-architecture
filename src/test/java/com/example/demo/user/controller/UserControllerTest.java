@@ -1,7 +1,7 @@
 package com.example.demo.user.controller;
 
-import com.example.demo.user.model.UserStatus;
-import com.example.demo.user.model.UserUpdate;
+import com.example.demo.user.domain.UserStatus;
+import com.example.demo.user.domain.UserUpdate;
 import com.example.demo.user.infrastructure.UserEntity;
 import com.example.demo.user.infrastructure.UserRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;

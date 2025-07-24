@@ -1,4 +1,4 @@
-package com.example.demo.user.model;
+package com.example.demo.user.domain;
 
 import lombok.Getter;
 import lombok.Setter;
