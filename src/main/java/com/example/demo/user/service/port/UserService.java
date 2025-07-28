@@ -1,4 +1,4 @@
-package com.example.demo.user.controller.port;
+package com.example.demo.user.service.port;
 
 import com.example.demo.user.domain.User;
 import com.example.demo.user.domain.UserCreate;

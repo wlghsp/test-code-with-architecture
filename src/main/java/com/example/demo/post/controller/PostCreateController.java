@@ -1,8 +1,8 @@
 package com.example.demo.post.controller;
 
-import com.example.demo.post.controller.port.PostService;
 import com.example.demo.post.controller.response.PostResponse;
 import com.example.demo.post.domain.PostCreate;
+import com.example.demo.post.service.port.PostService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.Builder;
 import lombok.RequiredArgsConstructor;

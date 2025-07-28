@@ -2,9 +2,9 @@ package com.example.demo.mock;
 
 import com.example.demo.post.controller.PostController;
 import com.example.demo.post.controller.PostCreateController;
-import com.example.demo.post.controller.port.PostService;
 import com.example.demo.post.service.PostServiceImpl;
 import com.example.demo.post.service.port.PostRepository;
+import com.example.demo.post.service.port.PostService;
 import com.example.demo.user.controller.UserController;
 import com.example.demo.user.controller.UserCreateController;
 import com.example.demo.user.service.CertificationService;
